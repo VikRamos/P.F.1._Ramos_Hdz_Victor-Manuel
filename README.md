@@ -32,6 +32,7 @@ Una clse es una instancia que contiene los objetos,metodos y atributos
 
 
 def __init__(self):                #Tambien le llaman CONSTRUCTOR
+
 class window (wx.Frame):           #class Window este es el objeto principal que contendra atributos  eventos ets
                                     que estallamando la clase FRAME cuyo apoyo es Un marco es una ventana cuyo tamaño y posición pueden (normalmente) ser cambiados por el                                           usuario.
 
